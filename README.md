@@ -1,8 +1,8 @@
-# !Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-I'm Hugo, a recent graduate (2023) from computer science living in Ciudad Juárez, México. 🤠🌮
+<h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p align="center">I'm Hugo, a recent graduate (2023) from computer science living in Ciudad Juárez, México. 🤠🌮</p>
 
-## 🛠 Technologies & Tools
-<div>
+<h2  align="center">🛠 Technologies & Tools</h2>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -15,10 +15,9 @@ I'm Hugo, a recent graduate (2023) from computer science living in Ciudad Juáre
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
 </div>
 
-## 📖  What I am currently learning
-<div>
+<h2  align="center">📖 What I am currently learning</h2>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>&nbsp;
 </div>
-  
