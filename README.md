@@ -1,5 +1,5 @@
 # !Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-I'm Hugo, a recent graduate from computer science living in Ciudad Juárez, México. 🤠🌮
+I'm Hugo, a recent graduate (2023) from computer science living in Ciudad Juárez, México. 🤠🌮
 
 ## 🛠 Technologies & Tools
 <div>
@@ -17,6 +17,8 @@ I'm Hugo, a recent graduate from computer science living in Ciudad Juárez, Méx
 
 ## 📖  What I am currently learning
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>&nbsp;
 </div>
   
