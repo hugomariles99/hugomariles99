@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<p align="center">I'm Hugo, a recent graduate (2023) from computer science living in Ciudad Juárez, México. 🤠🌮</p>
+<p align="center">I'm Hugo, a graduate from computer science living in Ciudad Juárez, México. 🤠🌮</p>
 
 <h2  align="center">🛠 Technologies & Tools</h2>
 <div align="center"> 
